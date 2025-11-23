@@ -13,6 +13,6 @@
       "run_at": "document_idle"
     }
   ],
-  "permissions": [],
+  "permissions": ["scripting","storage"],
   "host_permissions": ["*://web.telegram.org/a*"]
 }
